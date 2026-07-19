@@ -59,4 +59,4 @@ jobs:
             balance-hash-
 
       - name: 🚀 执行签到任务
-        #run: mise run checkin
+        run: mise run checkin
